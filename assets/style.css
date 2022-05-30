@@ -1,0 +1,21 @@
+.header {
+  margin-bottom: 30px;
+}
+
+.box-with-shadow {
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-shadow: 5px 5px 5px #ccc;
+  margin-bottom: 30px;
+}
+
+.text {
+  font-size: 20px;
+  font-weight: bold;
+  color: #ff0000;
+}
+.name {
+  font-size: 20px;
+  font-weight: bold;
+  color: #ff0000;
+}
